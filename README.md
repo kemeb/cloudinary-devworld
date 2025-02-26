@@ -41,7 +41,7 @@ Output of the second image with green bag:\
 Useful links:
 - [Cropping and resizing](https://cloudinary.com/documentation/resizing_and_cropping)
 - [Cropping position](https://cloudinary.com/documentation/resizing_and_cropping#example_3_crop_an_image_to_keep_only_the_face)
-- [Recolor](https://cloudinary.com/documentation/effects_and_artistic_enhancements#generative_recolor)
+- [Recolor](https://cloudinary.com/documentation/generative_ai_transformations#generative_recolor)
 - [Optimization](https://cloudinary.com/documentation/image_optimization)
 
 ## Submit your work
